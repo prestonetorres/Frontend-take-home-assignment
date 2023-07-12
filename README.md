@@ -62,7 +62,8 @@ If you'd need testnet NFTs for testing, do let us know. Also, please feel free t
 
 ## Submission
 
-Please submit your code as a GitHub repository. The repository should contain a README.md file that explains how to start and deploy your application, as well as any other relevant information.
+- Please submit your code as a GitHub repository. The repository should contain a README.md file that explains how to start and deploy your application, as well as any other relevant information.
+- Also, please deploy your solution to a free hosting platform of your choice and send us a test link. This is optional however, no evaluation point will be deducted if you don't deploy.
 
 ## Evaluation
 
