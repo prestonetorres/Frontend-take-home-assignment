@@ -59,6 +59,9 @@ We want you to build a simple page that lists the NFTs owned by a connected user
 
 If you'd need testnet NFTs for testing, do let us know. Also, please feel free to use a style library of your choice (Material UI, Tailwind CSS, etc)
 
+#### Blockchain Network for NFT
+Network name: Sepolia
+Chain ID: 11155111
 
 ## Submission
 
